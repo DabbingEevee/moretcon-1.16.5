@@ -17,6 +17,8 @@ out
 build
 .gradle
 
+.DS_Store
+
 # other
 eclipse
 run
